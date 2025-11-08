@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin Bashige
 - 💻 I’m interested in Software Engineering 
-- 🧑‍💻 I’m a mobile (Flutter💙) and web 🌐 fullstack dev. apprentice. 
+- 🧑‍💻 I’m a mobile (Flutter💙) and web 🌐 fullstack dev. (junior) . 
 and I’m looking forward to collaborating 🫱🏾‍🫲🏿 withyou ! 
 
 <!---
